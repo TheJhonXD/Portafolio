@@ -1,0 +1,29 @@
+<?xml version="1.0" standalone="no"?>
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg"
+ width="62" height="108" viewBox="0 0 42 50"
+ preserveAspectRatio="xMidYMid meet">
+<defs>
+  <linearGradient id="IconifyId1813088fe1fbc01fb468" x1="43.376%" x2="50.316%" y1="2.242%" y2="89.03%">
+    <stop offset="20%" stop-color="#6366f1"></stop>
+    <stop offset="40%" stop-color="#0ea5e9"></stop>
+    <stop offset="90%" stop-color="#10b981"></stop>
+  </linearGradient>
+  <linearGradient id="IconifyId1813088fe1fbc01fb467" x1="43.376%" x2="50.316%" y1="2.242%" y2="89.03%">
+    <stop offset="0%" stop-color="#FFEA83"></stop>
+    <stop offset="8.333%" stop-color="#FFDD35"></stop>
+    <stop offset="100%" stop-color="#FFA800"></stop>
+  </linearGradient>
+  <linearGradient id="violet-gradient" x1="-.828%" x2="57.636%" y1="7.652%" y2="78.411%">
+    <stop offset="0%" stop-color="#41D1FF"></stop>
+    <stop offset="100%" stop-color="#BD34FE"></stop>
+  </linearGradient>
+</defs>
+<g transform="translate(0.000000,108.000000) scale(0.050000,-0.050000)"
+fill="#000000" stroke="none">
+  <path fill="url(#violet-gradient)" d="M60 2090 c-49 -91 2 -161 117 -161 101 0 102 -2 59 -156 -21 -73
+  -36 -174 -33 -224 6 -94 13 -98 111 -69 44 13 45 10 45 -139 0 -89 8 -152 20
+  -152 43 0 233 342 281 504 20 70 -18 104 -98 87 -69 -15 -83 -1 -69 72 9 48
+  19 53 128 61 130 9 149 21 168 98 26 105 -16 118 -381 118 -303 0 -329 -3
+  -348 -39z"/>
+</g>
+</svg>
