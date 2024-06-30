@@ -1,0 +1,37 @@
+<?xml version="1.0" standalone="no"?>
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg"
+ width="129.000000pt" height="114.000000pt" viewBox="0 0 129 114"
+ preserveAspectRatio="xMidYMid meet">
+<defs>
+  <linearGradient id="IconifyId1813088fe1fbc01fb466" x1="-.828%" x2="57.636%" y1="7.652%" y2="78.411%">
+    <stop offset="0%" stop-color="#dc2626"></stop>
+    <stop offset="100%" stop-color="#7f1d1d"></stop>
+  </linearGradient>
+  <linearGradient id="IconifyId1813088fe1fbc01fb468" x1="43.376%" x2="50.316%" y1="2.242%" y2="89.03%">
+    <stop offset="10%" stop-color="#6366f1"></stop>
+    <stop offset="30%" stop-color="#0ea5e9"></stop>
+    <stop offset="90%" stop-color="#10b981"></stop>
+  </linearGradient>
+  <linearGradient id="IconifyId1813088fe1fbc01fb467" x1="43.376%" x2="50.316%" y1="2.242%" y2="89.03%">
+    <stop offset="0%" stop-color="#FFEA83"></stop>
+    <stop offset="8.333%" stop-color="#FFDD35"></stop>
+    <stop offset="100%" stop-color="#FFA800"></stop>
+  </linearGradient>
+</defs>
+<g transform="translate(0.000000,114.000000) scale(0.050000,-0.050000)"
+fill="#000000" stroke="none">
+<path fill="url(#IconifyId1813088fe1fbc01fb468)" d="M139 2218 c-12 -23 -18 -60 -12 -82 8 -30 -4 -44 -48 -60 -79 -27
+-82 -87 -4 -65 30 8 180 13 333 10 168 -3 282 3 290 15 6 11 9 -396 6 -905
+l-5 -925 275 -103 c332 -124 261 -124 591 -1 l275 103 0 908 0 907 255 4 c330
+5 326 5 390 -13 78 -22 75 38 -4 65 -44 16 -56 30 -48 60 25 95 -92 168 -152
+95 -20 -23 -18 -43 7 -93 18 -35 32 -67 32 -70 0 -3 -108 -8 -240 -12 -135 -3
+-240 2 -240 12 0 11 -324 13 -800 6 -440 -6 -800 -9 -800 -6 0 3 14 35 32 70
+53 105 -77 184 -133 80z m109 -15 c6 -9 -2 -34 -17 -55 -34 -45 -80 -15 -60
+39 14 35 59 45 77 16z m2141 -16 c20 -54 -26 -84 -60 -39 -15 21 -23 46 -17
+55 18 29 63 19 77 -16z m-795 -659 c56 -15 74 -69 44 -134 -26 -57 -69 -73
+-191 -74 -74 0 -83 -6 -93 -55 -14 -75 0 -90 69 -74 80 17 118 -17 98 -87 -48
+-162 -238 -504 -281 -504 -12 0 -20 63 -20 152 0 149 -1 152 -45 139 -98 -29
+-105 -25 -111 69 -3 50 12 151 33 224 43 154 42 156 -59 156 -115 0 -166 70
+-117 161 21 40 548 60 673 27z"/>
+</g>
+</svg>
